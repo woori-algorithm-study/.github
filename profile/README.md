@@ -1,12 +1,9 @@
-## Hi there 👋
+## Woori FISA 2nd 학습조직
 
-<!--
+---
+```
+👨‍💻 우리 FISA 2기에서 자율적으로 진행한 스터디로 여러가지를 공부
+```
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ⏰ History
+- `2023. 12~` 알고리즘 스터디 시작
